@@ -45,9 +45,8 @@ public class Alumno {
         System.out.println("Calificacion: " + calificacion);
     }
 
-    //
+    //Ejecución de programa
     public static void main(String[] args) {
-        // Ejecución del programa
         String nombre = "Sergio Ordaz";
         double[] calificaciones = {56, 72, 97, 58, 86};
         Alumno alumno = new Alumno(nombre, calificaciones);
