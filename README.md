@@ -36,8 +36,7 @@ El programa te permitirá realizar las siguientes acciones:
 
 ## Créditos
 
-Este programa fue desarrollado por [Tu Nombre].
+Este programa fue desarrollado por Emmanuel Iván García del Valle Garza.
 
-## Licencia
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
